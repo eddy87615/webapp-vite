@@ -20,8 +20,8 @@
 
 body {
   /* overflow: hidden; */
-  width: 100dvw;
-  height: 100dvh;
+  width: 100vw;
+  height: 100vh;
   background-image: linear-gradient(
       rgba(16, 16, 44, 0.8),
       rgba(16, 16, 44, 0.2)
