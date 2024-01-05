@@ -47,7 +47,7 @@ export default function Home() {
         <li>
           <a href="https://api.nasa.gov/" target="_black" alt="nasa api site">
             <img
-              src="/favicon-192.png"
+              src="./assets/favicon-192.png"
               alt="nasa logo"
               width={50}
               height={50}
@@ -61,7 +61,7 @@ export default function Home() {
             alt="this project github"
           >
             <img
-              src="/GitHub_Invertocat_Logo.png"
+              src="./assets/GitHub_Invertocat_Logo.png"
               alt="github logo"
               width={50}
               height={50}

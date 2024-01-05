@@ -19,14 +19,14 @@
 }
 
 body {
-  /* overflow: hidden; */
+  overflow: hidden;
   width: 100dvw;
   height: 100dvh;
   background-image: linear-gradient(
       rgba(16, 16, 44, 0.8),
       rgba(16, 16, 44, 0.2)
     ),
-    url(../public/bg-star.jpg);
+    url(./assets/bg-star.jpg);
   background-repeat: no-repeat;
   background-size: 150% 100%;
   background-position: center;
