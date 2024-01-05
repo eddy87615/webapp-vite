@@ -19,7 +19,7 @@
 }
 
 body {
-  overflow: hidden;
+  /* overflow: hidden; */
   width: 100dvw;
   height: 100dvh;
   background-image: linear-gradient(
