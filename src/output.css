@@ -762,8 +762,8 @@ video {
 
 body {
   /* overflow: hidden; */
-  width: 100vw;
-  height: 100vh;
+  width: 100dvw;
+  height: 100dvh;
   background-image: linear-gradient(
       rgba(16, 16, 44, 0.8),
       rgba(16, 16, 44, 0.2)
