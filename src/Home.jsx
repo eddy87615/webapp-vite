@@ -43,7 +43,7 @@ export default function Home() {
           </li>
         ))}
       </ul>
-      <ul className="flex justify-center items-center my-20 gap-10">
+      {/* <ul className="flex justify-center items-center my-20 gap-10">
         <li>
           <a href="https://api.nasa.gov/" target="_black" alt="nasa api site">
             <img
@@ -68,7 +68,7 @@ export default function Home() {
             />
           </a>
         </li>
-      </ul>
+      </ul> */}
       {/* <Image src="/favicon-192.png" width={100} height={100} alt="nasa logo" /> */}
     </div>
   );
