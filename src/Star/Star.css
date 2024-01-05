@@ -108,7 +108,7 @@ span:nth-child(9) {
   animation-duration: 2.25s;
 }
 span:nth-child(9) {
-  top: 0px;
+  top: -10px;
   right: 450px;
   left: initial;
   animation-delay: 2.75s;
