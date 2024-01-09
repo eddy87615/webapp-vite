@@ -770,7 +770,7 @@ body {
     ),
     url(/bg-star.jpg);
   background-repeat: no-repeat;
-  background-size: 150% 100%;
+  background-size: 100% 100%;
   background-position: center;
   padding: 6%;
 }
